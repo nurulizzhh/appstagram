@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506797289918",
+    "project_id": "appstagram-181ea",
+    "storage_bucket": "appstagram-181ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506797289918:android:315587308f92490d5fc9ef",
+        "android_client_info": {
+          "package_name": "com.example.appstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCMyilO9mArMsilzNY8SQjtNvqjWdpEo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
